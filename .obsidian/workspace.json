@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLMとTelloで頼れる相棒ドローン作ってみた。.md",
+                "file": "articles/SLMとTelloで頼れる相棒ドローン作ってみた。.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,9 +183,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "b2f716ddc16ae420",
+  "active": "22fbe6b5cf0601ac",
   "lastOpenFiles": [
-    "SLMとTelloで頼れる相棒ドローン作ってみた。.md",
+    "articles",
+    "articles/SLMとTelloで頼れる相棒ドローン作ってみた。.md",
     "ようこそ.md"
   ]
 }
