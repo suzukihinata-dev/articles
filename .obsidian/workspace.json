@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/acc95-fashionmnist.md",
+                "file": "articles/slm-tello-companion-drone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "acc95-fashionmnist"
+              "title": "slm-tello-companion-drone"
             }
           }
         ]
@@ -182,14 +182,14 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://chatgpt.com/ja-JP/"
+                "url": "https://chatgpt.com/c/6a464305-857c-83e8-ad0c-3809289eaa98"
               },
               "icon": "lucide-file",
-              "title": "ChatGPT - チャットGPT"
+              "title": "Slugルール違反の原因"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "b161f89902f854cf",
@@ -259,16 +259,16 @@
   },
   "active": "bd7122b5fed9ce80",
   "lastOpenFiles": [
+    "articles/slm-tello-companion-drone.md",
+    "articles/pockemon-master-DRL.md",
+    "articles/modern-bert-explain.md",
+    "articles/lets-use-tailscale.md",
     "articles/acc95-fashionmnist.md",
+    "articles/what-is-ttt-research.md",
     "images.md",
     "images 1.md",
     "articles/images/FashionMNIST_trainlog.png",
-    "articles/slm-tello-companion-drone.md",
-    "articles/what-is-ttt.md",
-    "articles/modern-bert.md",
     "Templates/zenn-article.md",
-    "articles/pockemon-master-DRL.md",
-    "articles/lets-use-tailscale.md",
     "pyproject.toml",
     "main.py",
     "無題のファイル.base",
