@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdb149768c6d866f",
+            "id": "dbb05ec7e57273cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/slm-tello-companion-drone.md",
+                "file": "articles/review-about-windsurf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "slm-tello-companion-drone"
+              "title": "review-about-windsurf"
             }
           }
         ]
@@ -87,7 +87,6 @@
       {
         "id": "af7f6b3cbad27e21",
         "type": "tabs",
-        "dimension": 50.61946902654867,
         "children": [
           {
             "id": "8e8db00cd8aad3b4",
@@ -182,23 +181,23 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://chatgpt.com/c/6a464305-857c-83e8-ad0c-3809289eaa98"
+                "url": "https://chatgpt.com/g/g-p-6a44e12c405481918a15b1c46622d619-ji-shu-ji-shi-zhi-bi/c/6a505639-c2bc-83ee-bba6-77642cf2d59e?tab=sources"
               },
               "icon": "lucide-file",
-              "title": "Slugルール違反の原因"
+              "title": "技術記事執筆 - Devin契約体験記"
             }
           }
         ],
         "currentTab": 6
       },
       {
-        "id": "b161f89902f854cf",
+        "id": "e512ea8d734af6cf",
         "type": "tabs",
-        "dimension": 49.38053097345133,
         "children": [
           {
-            "id": "bd7122b5fed9ce80",
+            "id": "c2c67f138cba1568",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "terminal:terminal",
               "state": {
@@ -235,6 +234,7 @@
                   "userTitle": ""
                 }
               },
+              "pinned": true,
               "icon": "terminal",
               "title": "ターミナル: zsh"
             }
@@ -243,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 891.5
+    "width": 765.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,8 +257,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "bd7122b5fed9ce80",
+  "active": "c2c67f138cba1568",
   "lastOpenFiles": [
+    "articles/review-about-windsurf.md",
+    "articles/images/glm5.2-benchmark.png",
+    "articles/images/swe1.7-benchmark.png",
+    "articles/fire-the-token!-ai-detox.md",
     "articles/slm-tello-companion-drone.md",
     "articles/pockemon-master-DRL.md",
     "articles/modern-bert-explain.md",

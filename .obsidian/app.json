@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "articles/images",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "livePreview": true
 }
