@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a6796690203b09a",
+            "id": "a0ca6d1c1daa819e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,18 @@
               },
               "icon": "lucide-file",
               "title": "review-about-windsurf"
+            }
+          },
+          {
+            "id": "0a6796690203b09a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/swe1.7-benchmark.png"
+              },
+              "icon": "lucide-image",
+              "title": "swe1.7-benchmark"
             }
           },
           {
@@ -274,12 +286,39 @@
   "active": "c2c67f138cba1568",
   "lastOpenFiles": [
     "articles/review-about-windsurf.md",
-    "articles/modern-bert-explain.md",
     "images/swe1.7-benchmark.png",
+    "articles/what-is-ttt-research.md",
+    "package-lock.json",
+    "node_modules/zenn-cli/dist/client/logo.svg",
+    "node_modules/zenn-cli/dist/client/favicon.png",
+    "node_modules/zenn-cli/dist/client/static-images/folder-open.svg",
+    "node_modules/zenn-cli/dist/client/static-images/folder-close.svg",
+    "node_modules/zenn-cli/dist/client/static-images/copy-icon.svg",
+    "node_modules/zenn-cli/dist/client/static-images/book-cover.png",
+    "node_modules/zenn-cli/dist/client/static-images",
+    "node_modules/zenn-cli/README.md",
+    "node_modules/zenn-cli/package.json",
+    "node_modules/zenn-cli/dist/server/zenn.js.map",
+    "node_modules/zenn-cli/dist/client/assets/index-DuVRuvtu.js",
+    "node_modules/zenn-cli/dist/client/assets/index-DFlUS8B-.js",
+    "node_modules/zenn-cli/dist/client/assets/index-ByrRq8mw.css",
+    "node_modules/zenn-cli/dist/server/zenn.js",
+    "node_modules/zenn-cli/dist/client/index.html",
+    "node_modules/zenn-cli/dist/client/assets",
+    "node_modules/package-manager-detector/README.md",
+    "node_modules/open/readme.md",
+    "node_modules/default-browser/readme.md",
+    "node_modules/is-inside-container/readme.md",
+    "node_modules/wsl-utils/readme.md",
+    "node_modules/is-docker/readme.md",
+    "node_modules/is-wsl/readme.md",
+    "node_modules/define-lazy-prop/readme.md",
+    "node_modules/run-applescript/readme.md",
+    "node_modules/bundle-name/readme.md",
+    "node_modules/default-browser-id/readme.md",
+    "articles/modern-bert-explain.md",
     "images/glm5.2-benchmark.png",
     "images/FashionMNIST_trainlog.png",
-    "books",
-    "articles/what-is-ttt-research.md",
     "articles/slm-tello-companion-drone.md",
     "articles/pockemon-master-drl.md",
     "articles/fire-the-token-ai-detox.md",
@@ -288,13 +327,7 @@
     "images.md",
     "images 1.md",
     "Templates/zenn-article.md",
-    "pyproject.toml",
-    "main.py",
-    "無題のファイル.base",
-    "images",
-    "Templates",
     "articles/SLMとTelloで頼れる相棒ドローン作ってみた。.md",
-    "articles",
     "ようこそ.md"
   ]
 }

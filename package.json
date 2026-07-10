@@ -1,0 +1,20 @@
+{
+  "name": "articles",
+  "version": "1.0.0",
+  "description": "技術記事をまとめたリポジトリです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-suzukihinata-dev:suzukihinata-dev/articles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "zenn-cli": "^0.5.2"
+  }
+}
