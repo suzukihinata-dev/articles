@@ -246,7 +246,7 @@ weight decayを調整
 
 そのため、実験結果をCSVで残し、モデルソースやcheckpoint情報も保存しておくことは非常に重要だと感じました。
 
-![](./images/FashionMNIST_trainlog.png)
+![](../images/FashionMNIST_trainlog.png)
 
 ## ✅ まとめ
 
