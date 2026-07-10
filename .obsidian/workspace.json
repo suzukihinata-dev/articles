@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/review-about-windsurf.md",
+                "file": "articles/fire-the-token-ai-detox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "review-about-windsurf"
+              "title": "fire-the-token-ai-detox"
             }
           }
         ]
@@ -259,10 +259,10 @@
   },
   "active": "c2c67f138cba1568",
   "lastOpenFiles": [
+    "articles/fire-the-token-ai-detox.md",
     "articles/review-about-windsurf.md",
     "articles/images/glm5.2-benchmark.png",
     "articles/images/swe1.7-benchmark.png",
-    "articles/fire-the-token!-ai-detox.md",
     "articles/slm-tello-companion-drone.md",
     "articles/pockemon-master-DRL.md",
     "articles/modern-bert-explain.md",
