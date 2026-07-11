@@ -39,15 +39,102 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/what-is-ttt-research.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what-is-ttt-research"
+              "title": "README"
+            }
+          },
+          {
+            "id": "0e6947c4f838df77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "articles/recommend-windsurf-for-student.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "recommend-windsurf-for-student"
+            }
+          },
+          {
+            "id": "d0629aa90c272bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "articles/recommend-devin-for-pd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "recommend-devin-for-pd"
+            }
+          },
+          {
+            "id": "f66e4597af014585",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.google.com/search?q=fugu%E3%81%AF%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E3%81%99%E3%81%8B&sca_esv=42fe7aaeea9c8c2b&sxsrf=APpeQnuh6Ve5GbKbybXOfSa9nwd0nLS6Ag%3A1783728108037&ei=7IdRatDVAbimvr0Pu5WXiQY&biw=791&bih=1052&uact=5&sclient=gws-wiz-serp&udm=50&aep=10&ntc=1&mstk=AUtExfAK_bh5Xegzpd24gw3mBJmZlMvXfTl-2jwrNjiwlrYZRnKy61ZzVk5HVJPyi-Iz1uxRNVWvFRkEd3ao358fHQEcHRJ1ivzz9sVDPPnM2MBZPDObetJWcFhbY79U-b2dbEYT1b55w3i0RN2SyYsww5Cw0RH3PL6HaSeWZ2XpU9yI0nUiFa9df2cuyh990azeMLJXh2o3SLC53DlrI90HE2kg-_jZr7emXekVUHvyn81tyi3B_pcPUPXoEg&aioh=3&csuir=1&mtid=_odRapfOHq3g0-kPw9mqKQ"
+              },
+              "icon": "lucide-file",
+              "title": "fuguはオープンモデルですか - Google 検索"
+            }
+          },
+          {
+            "id": "d8d64e3294b1d7ac",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.google.com/search?sca_esv=42fe7aaeea9c8c2b&sxsrf=APpeQnu7prQXXgFoUdI5fOi3VVHBqzWH5w:1783728803447&udm=2&fbs=ABfTbFXSi_j8YEd7sPifpgf9NydOA85VOKj88BQgTsREBgemWQLSC8CJyY1Rvs8gnwVecz4eA2jgsLpnA2CqevIcHcZFFCuuTmD9llNlZwTIPWAT5LasXSUB8gt6NXJ09P-TdVfBppSFmXn4q45aUQ7nW9OjRCchhTsrpioZYUr9pE7AnNk8WkeBdH-eRZl6DFJVgtjf6E7ubQ_hHrMYxaFmDk8WNDjHvV9nkRTQTapU7TuThtVaLJU&q=cursor+ui&sa=X&ved=2ahUKEwjCyNHNq8mVAxVLbvUHHShNOdIQtKgLegQIGBAB&biw=791&bih=1052&dpr=2#sv=CAMSURoyKhBlLWZxd3dOM2UwWHVKbXpNMg5mcXd3TjNlMFh1Sm16TToOakxyejU0QVF5bWcwSk0gBCoXCgFzEhBlLWZxd3dOM2UwWHVKbXpNGAEwARgHILfr99QLSggQARgBIAEoAQ"
+              },
+              "icon": "lucide-file",
+              "title": "cursor ui - Google 検索"
+            }
+          },
+          {
+            "id": "c88acd3b54986c33",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://note.com/web_app_ai/n/na3f873f5d8b4"
+              },
+              "icon": "lucide-file",
+              "title": "Cursor 2.0の登場｜新しいUI(ユーザーインターフェース)編 - Agentsモード｜むっく@5分でわかるAI×開発"
+            }
+          },
+          {
+            "id": "505c87d3e70056d5",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=2056503716413608391&lang=en&origin=https%3A%2F%2Fembed.zenn.studio%2Ftweet%23zenn-embedded__4ecf869d40eab&sessionId=3eef7060cfe4b620961d0931509b25250844f90b&theme=dark&widgetsVersion=6a3ad42b224df%3A1778106238597&width=550px"
+              },
+              "icon": "lucide-file",
+              "title": "ObsidianでCalloutをしやすくするプラグインを作った"
+            }
+          },
+          {
+            "id": "10ce73a0481dcbfd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,40 +268,29 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "recommend-windsurf-for-student.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "recommend-windsurf-for-studentのアウトライン"
             }
           },
           {
-            "id": "419e27100233530b",
+            "id": "2b745d5d4e488244",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://zenn.dev/"
+                "url": "https://chatgpt.com/g/g-p-6a44e12c405481918a15b1c46622d619-ji-shu-ji-shi-zhi-bi/c/6a51834b-1c10-83e8-a758-7d6647804a1b"
               },
               "icon": "lucide-file",
-              "title": "Zenn｜エンジニアのための情報共有コミュニティ"
-            }
-          },
-          {
-            "id": "8ef7b0f6209615d2",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/g/g-p-6a44e12c405481918a15b1c46622d619-ji-shu-ji-shi-zhi-bi/c/6a505639-c2bc-83ee-bba6-77642cf2d59e?tab=sources"
-              },
-              "icon": "lucide-file",
-              "title": "技術記事執筆 - Devin契約体験記"
+              "title": "ChatGPT - 技術記事執筆"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "e512ea8d734af6cf",
@@ -269,7 +345,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 765.5
+    "width": 849.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,16 +361,24 @@
   },
   "active": "c2c67f138cba1568",
   "lastOpenFiles": [
+    "articles/recommend-devin-for-pd.md",
+    "articles/recommend-windsurf-for-student.md",
     "articles/review-about-windsurf.md",
-    "images/swe1.7-benchmark.png",
+    "articles/images/スクリーンショット 2026-07-11 12.37.21.png",
+    "articles/images/スクリーンショット 2026-07-11 9.19.10.png",
+    "articles/images/Pasted image 20260711091545.png",
+    "articles/images/Pasted image 20260711091539.png",
+    "articles/images",
+    "README.md",
+    "無題のファイル.base",
     "articles/what-is-ttt-research.md",
+    "images/swe1.7-benchmark.png",
     "package-lock.json",
     "node_modules/zenn-cli/dist/client/logo.svg",
     "node_modules/zenn-cli/dist/client/favicon.png",
     "node_modules/zenn-cli/dist/client/static-images/folder-open.svg",
     "node_modules/zenn-cli/dist/client/static-images/folder-close.svg",
     "node_modules/zenn-cli/dist/client/static-images/copy-icon.svg",
-    "node_modules/zenn-cli/dist/client/static-images/book-cover.png",
     "node_modules/zenn-cli/dist/client/static-images",
     "node_modules/zenn-cli/README.md",
     "node_modules/zenn-cli/package.json",
@@ -303,8 +387,6 @@
     "node_modules/zenn-cli/dist/client/assets/index-DFlUS8B-.js",
     "node_modules/zenn-cli/dist/client/assets/index-ByrRq8mw.css",
     "node_modules/zenn-cli/dist/server/zenn.js",
-    "node_modules/zenn-cli/dist/client/index.html",
-    "node_modules/zenn-cli/dist/client/assets",
     "node_modules/package-manager-detector/README.md",
     "node_modules/open/readme.md",
     "node_modules/default-browser/readme.md",
@@ -317,8 +399,6 @@
     "node_modules/bundle-name/readme.md",
     "node_modules/default-browser-id/readme.md",
     "articles/modern-bert-explain.md",
-    "images/glm5.2-benchmark.png",
-    "images/FashionMNIST_trainlog.png",
     "articles/slm-tello-companion-drone.md",
     "articles/pockemon-master-drl.md",
     "articles/fire-the-token-ai-detox.md",
@@ -326,8 +406,6 @@
     "articles/acc95-fashionmnist.md",
     "images.md",
     "images 1.md",
-    "Templates/zenn-article.md",
-    "articles/SLMとTelloで頼れる相棒ドローン作ってみた。.md",
-    "ようこそ.md"
+    "Templates/zenn-article.md"
   ]
 }
