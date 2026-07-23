@@ -1,5 +1,5 @@
 ---
-title: Codexを使い切った高専生に勧めたいAIサブスク- Devin
+title: " Codexを使い切った高専生に勧めたいAIサブスク- Devin"
 emoji: 🏄‍♂️
 type: tech
 topics:

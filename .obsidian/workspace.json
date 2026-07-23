@@ -8,133 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0ca6d1c1daa819e",
+            "id": "a9dfbda2e654e844",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/review-about-windsurf.md",
+                "file": "idea/なぜTransformerを超えるAIアーキテクチャは登場しないのか?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "review-about-windsurf"
+              "title": "なぜTransformerを超えるAIアーキテクチャは登場しないのか?"
             }
           },
           {
-            "id": "0a6796690203b09a",
+            "id": "8c070f8d5e435273",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "images/swe1.7-benchmark.png"
+                "file": "images/two-student.png"
               },
               "icon": "lucide-image",
-              "title": "swe1.7-benchmark"
+              "title": "two-student"
             }
           },
           {
-            "id": "dbb05ec7e57273cc",
+            "id": "a3f64fc62e70b85e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "articles/why-hasnt-ttt-become-widespread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "0e6947c4f838df77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "articles/recommend-windsurf-for-student.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "recommend-windsurf-for-student"
-            }
-          },
-          {
-            "id": "d0629aa90c272bf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "articles/recommend-devin-for-pd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "recommend-devin-for-pd"
-            }
-          },
-          {
-            "id": "f66e4597af014585",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.google.com/search?q=fugu%E3%81%AF%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E3%81%99%E3%81%8B&sca_esv=42fe7aaeea9c8c2b&sxsrf=APpeQnuh6Ve5GbKbybXOfSa9nwd0nLS6Ag%3A1783728108037&ei=7IdRatDVAbimvr0Pu5WXiQY&biw=791&bih=1052&uact=5&sclient=gws-wiz-serp&udm=50&aep=10&ntc=1&mstk=AUtExfAK_bh5Xegzpd24gw3mBJmZlMvXfTl-2jwrNjiwlrYZRnKy61ZzVk5HVJPyi-Iz1uxRNVWvFRkEd3ao358fHQEcHRJ1ivzz9sVDPPnM2MBZPDObetJWcFhbY79U-b2dbEYT1b55w3i0RN2SyYsww5Cw0RH3PL6HaSeWZ2XpU9yI0nUiFa9df2cuyh990azeMLJXh2o3SLC53DlrI90HE2kg-_jZr7emXekVUHvyn81tyi3B_pcPUPXoEg&aioh=3&csuir=1&mtid=_odRapfOHq3g0-kPw9mqKQ"
-              },
-              "icon": "lucide-file",
-              "title": "fuguはオープンモデルですか - Google 検索"
-            }
-          },
-          {
-            "id": "d8d64e3294b1d7ac",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.google.com/search?sca_esv=42fe7aaeea9c8c2b&sxsrf=APpeQnu7prQXXgFoUdI5fOi3VVHBqzWH5w:1783728803447&udm=2&fbs=ABfTbFXSi_j8YEd7sPifpgf9NydOA85VOKj88BQgTsREBgemWQLSC8CJyY1Rvs8gnwVecz4eA2jgsLpnA2CqevIcHcZFFCuuTmD9llNlZwTIPWAT5LasXSUB8gt6NXJ09P-TdVfBppSFmXn4q45aUQ7nW9OjRCchhTsrpioZYUr9pE7AnNk8WkeBdH-eRZl6DFJVgtjf6E7ubQ_hHrMYxaFmDk8WNDjHvV9nkRTQTapU7TuThtVaLJU&q=cursor+ui&sa=X&ved=2ahUKEwjCyNHNq8mVAxVLbvUHHShNOdIQtKgLegQIGBAB&biw=791&bih=1052&dpr=2#sv=CAMSURoyKhBlLWZxd3dOM2UwWHVKbXpNMg5mcXd3TjNlMFh1Sm16TToOakxyejU0QVF5bWcwSk0gBCoXCgFzEhBlLWZxd3dOM2UwWHVKbXpNGAEwARgHILfr99QLSggQARgBIAEoAQ"
-              },
-              "icon": "lucide-file",
-              "title": "cursor ui - Google 検索"
-            }
-          },
-          {
-            "id": "c88acd3b54986c33",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://note.com/web_app_ai/n/na3f873f5d8b4"
-              },
-              "icon": "lucide-file",
-              "title": "Cursor 2.0の登場｜新しいUI(ユーザーインターフェース)編 - Agentsモード｜むっく@5分でわかるAI×開発"
-            }
-          },
-          {
-            "id": "505c87d3e70056d5",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=2056503716413608391&lang=en&origin=https%3A%2F%2Fembed.zenn.studio%2Ftweet%23zenn-embedded__4ecf869d40eab&sessionId=3eef7060cfe4b620961d0931509b25250844f90b&theme=dark&widgetsVersion=6a3ad42b224df%3A1778106238597&width=550px"
-              },
-              "icon": "lucide-file",
-              "title": "ObsidianでCalloutをしやすくするプラグインを作った"
-            }
-          },
-          {
-            "id": "10ce73a0481dcbfd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "why-hasnt-ttt-become-widespread"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "right": {
     "id": "aef8d223b0e59a65",
@@ -200,6 +114,7 @@
       {
         "id": "af7f6b3cbad27e21",
         "type": "tabs",
+        "dimension": 70.35398230088495,
         "children": [
           {
             "id": "8e8db00cd8aad3b4",
@@ -268,25 +183,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recommend-windsurf-for-student.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "recommend-windsurf-for-studentのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
-            "id": "2b745d5d4e488244",
+            "id": "58427a29239e14ed",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://chatgpt.com/g/g-p-6a44e12c405481918a15b1c46622d619-ji-shu-ji-shi-zhi-bi/c/6a51834b-1c10-83e8-a758-7d6647804a1b"
+                "url": "https://chatgpt.com/backend-api/estuary/content?id=file_0000000076208206b97e870942aa7bbb&fn=computational_cost_transformer_vs_mamba_corrected.png&cd=attachment&ts=495777&p=fs&cid=1&sig=a20cdeedb249218273652e4c051d1f5d67727c29998ad0e9337d48cc1b69a8fb&v=0"
               },
               "icon": "lucide-file",
-              "title": "ChatGPT - 技術記事執筆"
+              "title": "技術記事執筆 - Transformer超えアーキテクチャ"
             }
           }
         ],
@@ -295,6 +209,7 @@
       {
         "id": "e512ea8d734af6cf",
         "type": "tabs",
+        "dimension": 29.646017699115045,
         "children": [
           {
             "id": "c2c67f138cba1568",
@@ -361,51 +276,50 @@
   },
   "active": "c2c67f138cba1568",
   "lastOpenFiles": [
-    "articles/recommend-devin-for-pd.md",
-    "articles/recommend-windsurf-for-student.md",
-    "articles/review-about-windsurf.md",
-    "articles/images/スクリーンショット 2026-07-11 12.37.21.png",
-    "articles/images/スクリーンショット 2026-07-11 9.19.10.png",
+    "articles/why-hasnt-ttt-become-widespread.md",
+    "images/mamba-perplexity.png",
+    "images/ttt-arch.png",
+    "images/fuan.jpg",
+    "images/compare-cal-cost.png",
+    "images/transformer-empower.png",
+    "images/mamba-logo.png",
+    "images/power-demand.png",
+    "images/datacenter.webp",
+    "idea/なぜTransformerを超えるAIアーキテクチャは登場しないのか?.md",
+    "images/two-student.png",
     "articles/images/Pasted image 20260711091545.png",
-    "articles/images/Pasted image 20260711091539.png",
+    "idea/「国民性をNLPで分析」は、どこまでが科学でどこからが偏見か？.md",
+    "idea/AI生成文章の検出器を自作して、自分で破る.md",
+    "idea/ホーマン遷移軌道を自力で計算して、はやぶさの凄さを定量化する.md",
+    "idea/円周率の計算法1000年史を、全部実装して収束速度を比べる.md",
+    "idea/Embeddingは「意味」を捉えているのか、「単語の一致」を見ているだけなのか？.md",
+    "idea/ベンチマークを自作したら、ベンチマークを信じられなくなった話.md",
+    "idea/ベンチマークで1位のモデルは、なぜ実務で使うとイマイチなのか？.md",
+    "idea/LLMの日本語能力は、結局Tokenizerで決まっているのではないか？.md",
+    "idea/ベンチマーク1位は実務でも1位なのか？自作タスクで順位の逆転を測る.md",
+    "idea/気象庁の予報は、いつ・どんな天気から外れやすいのか？公開予報を90日検証する.md",
+    "idea/古代から近代までの円周率計算法を実装し、1桁の精度に必要な計算量を比べる.md",
+    "idea/古代の観測法を再現すると、1日の長さはどこまで正確に測れるのか？.md",
+    "idea/軌道計算を自力で再現すると、宇宙船はどれほど小さな誤差で目的地を外れるのか？.md",
+    "idea/人口予測は何年先から外れるのか？単純モデルと公的推計を比べる.md",
+    "idea/ベンチマークを自作すると、モデルの「賢さ」は何で決まるのか？.md",
+    "idea/米国・イラン戦をシミュレーションすると、勝敗はどの仮定で覆るのか？.md",
+    "idea/NLPで測った「国民性」は、文化差かデータセットの偏りか？.md",
+    "idea/良いベンチマークってなんだろう?.md",
+    "idea/ベンチマークってどうやって作るんですか?.md",
+    "idea/宇宙船の軌道計算を行う方法.md",
+    "idea/昔の人が１日の長さを計算した方法.md",
+    "idea/昔の人はどうやって、円周率を計算していたのか?.md",
+    "idea/気象庁はどんなモデルから天気を予測しているのか?.md",
+    "idea",
     "articles/images",
-    "README.md",
     "無題のファイル.base",
-    "articles/what-is-ttt-research.md",
-    "images/swe1.7-benchmark.png",
     "package-lock.json",
-    "node_modules/zenn-cli/dist/client/logo.svg",
-    "node_modules/zenn-cli/dist/client/favicon.png",
-    "node_modules/zenn-cli/dist/client/static-images/folder-open.svg",
-    "node_modules/zenn-cli/dist/client/static-images/folder-close.svg",
-    "node_modules/zenn-cli/dist/client/static-images/copy-icon.svg",
     "node_modules/zenn-cli/dist/client/static-images",
-    "node_modules/zenn-cli/README.md",
     "node_modules/zenn-cli/package.json",
     "node_modules/zenn-cli/dist/server/zenn.js.map",
     "node_modules/zenn-cli/dist/client/assets/index-DuVRuvtu.js",
     "node_modules/zenn-cli/dist/client/assets/index-DFlUS8B-.js",
-    "node_modules/zenn-cli/dist/client/assets/index-ByrRq8mw.css",
-    "node_modules/zenn-cli/dist/server/zenn.js",
-    "node_modules/package-manager-detector/README.md",
-    "node_modules/open/readme.md",
-    "node_modules/default-browser/readme.md",
-    "node_modules/is-inside-container/readme.md",
-    "node_modules/wsl-utils/readme.md",
-    "node_modules/is-docker/readme.md",
-    "node_modules/is-wsl/readme.md",
-    "node_modules/define-lazy-prop/readme.md",
-    "node_modules/run-applescript/readme.md",
-    "node_modules/bundle-name/readme.md",
-    "node_modules/default-browser-id/readme.md",
-    "articles/modern-bert-explain.md",
-    "articles/slm-tello-companion-drone.md",
-    "articles/pockemon-master-drl.md",
-    "articles/fire-the-token-ai-detox.md",
-    "articles/lets-use-tailscale.md",
-    "articles/acc95-fashionmnist.md",
-    "images.md",
-    "images 1.md",
-    "Templates/zenn-article.md"
+    "node_modules/zenn-cli/dist/client/assets/index-ByrRq8mw.css"
   ]
 }
